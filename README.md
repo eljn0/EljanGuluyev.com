@@ -1,2 +1,2 @@
-# Alternative Script for main website (eljanguluyev.com)
+ Alternative Script for main website (eljanguluyev.com)
 
